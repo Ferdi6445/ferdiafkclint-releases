@@ -10,16 +10,5 @@
     "type": "info",
     "timestamp": null
   },
-  "blockedServers": [],
-  "whispers": {
-    "FC-87B6-1103-1469-2000": {
-      "id": "w-1788208245243",
-      "targetHwid": "FC-87B6-1103-1469-2000",
-      "message": "⚡ Sayın Ali, botlarınızı lobiye çekiniz!",
-      "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-08-31T20:30:45.243Z",
-      "timeFormatted": "23:30:45"
-    }
-  },
-  "killCommands": []
+  "blockedServers": []
 }
