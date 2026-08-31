@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "err-1788208247305-4t5g",
+    "hwid": "FC-87B6-1103-1469-2000",
+    "username": "TestOyuncu_Ali",
+    "botName": "Ali_AFK_Bot",
+    "errorType": "Geçersiz Şifre",
+    "message": "Sunucu giriş şifresi hatalı!",
+    "serverHost": "play.sezoncraft.com",
+    "timestamp": "2026-08-31T20:30:47.305Z",
+    "timeFormatted": "23:30:47"
+  }
+]
