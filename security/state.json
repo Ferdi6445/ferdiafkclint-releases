@@ -11,7 +11,13 @@
     "timestamp": "2026-08-31T20:42:53.674Z",
     "formattedTime": "23:42:53"
   },
-  "blockedServers": [],
+  "blockedServers": [
+    {
+      "host": "yasaklisunucu.net",
+      "reason": "Yönetici tarafından bot atılması yasaklandı",
+      "addedAt": "2026-08-31T20:42:57.811Z"
+    }
+  ],
   "whispers": {
     "FC-7532-7123-E7ED-907F": {
       "id": "w-1788208975860",
