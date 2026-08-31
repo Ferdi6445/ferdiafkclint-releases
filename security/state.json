@@ -1,14 +1,15 @@
 {
   "maintenance": {
-    "enabled": false,
-    "reason": "Sistem altyapı bakımı yapılmaktadır.",
-    "startedAt": null
+    "enabled": true,
+    "reason": "Altyapı bakımı yapılıyor!",
+    "startedAt": "2026-08-31T20:42:49.577Z"
   },
   "announcement": {
-    "active": false,
-    "message": "",
-    "type": "info",
-    "timestamp": null
+    "active": true,
+    "message": "📢 SezonCraft etkinliği bu akşam saat 20:00!",
+    "type": "warning",
+    "timestamp": "2026-08-31T20:42:53.674Z",
+    "formattedTime": "23:42:53"
   },
   "blockedServers": [],
   "whispers": {},
