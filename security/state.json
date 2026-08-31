@@ -1,8 +1,8 @@
 {
   "maintenance": {
-    "enabled": true,
-    "reason": "Altyapı bakımı yapılıyor!",
-    "startedAt": "2026-08-31T20:42:49.577Z"
+    "enabled": false,
+    "reason": "Sistem altyapı bakımı yapılmaktadır.",
+    "startedAt": null
   },
   "announcement": {
     "active": false,
