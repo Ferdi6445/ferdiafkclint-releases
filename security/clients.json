@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "hwid": "FC-87B6-1103-1469-2000",
+    "username": "TestOyuncu_Ali",
+    "version": "1.6.0",
+    "activeBotCount": 2,
+    "servers": [
+      "play.sezoncraft.com"
+    ],
+    "platform": "win32",
+    "lastSeen": 1788208243679,
+    "lastSeenFormatted": "23:30:43",
+    "isBanned": false
+  }
+]
