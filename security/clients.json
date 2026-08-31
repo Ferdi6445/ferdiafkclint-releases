@@ -1,15 +1,15 @@
 [
   {
-    "hwid": "FC-DEFAULT",
-    "username": "Oyuncu",
-    "version": "1.5.0",
-    "activeBotCount": 0,
+    "hwid": "FC-ACC2-3867-3FC9-AC3E",
+    "username": "Ferdi (Geliştirici)",
+    "version": "1.6.0",
+    "activeBotCount": 1,
     "servers": [
-      "SezonCraft / Ana Sunucu"
+      "play.sezoncraft.com"
     ],
     "platform": "win32",
-    "lastSeen": 1788209357798,
-    "lastSeenFormatted": "23:49:17",
+    "lastSeen": 1788209516066,
+    "lastSeenFormatted": "23:51:56",
     "isBanned": false
   }
 ]
