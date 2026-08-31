@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "err-1788208982082-jkh5",
+    "hwid": "FC-7532-7123-E7ED-907F",
+    "username": "Ahmet_Pro99",
+    "botName": "Ahmet_FarmBot",
+    "errorType": "Sunucu Dolu",
+    "message": "Sunucu kapasitesi 500/500 dolu olduğundan giriş yapılamadı",
+    "serverHost": "play.sezoncraft.com",
+    "timestamp": "2026-08-31T20:43:02.082Z",
+    "timeFormatted": "23:43:02"
+  }
+]
