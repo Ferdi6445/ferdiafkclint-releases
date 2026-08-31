@@ -1,15 +1,14 @@
 {
   "maintenance": {
-    "enabled": true,
-    "reason": "⚡ Geliştirici (Ferdi Çalık) sunucu altyapısını güncelliyor!",
-    "startedAt": "2026-08-31T20:28:50.290Z"
+    "enabled": false,
+    "reason": "Sistem altyapı bakımı yapılmaktadır.",
+    "startedAt": null
   },
   "announcement": {
-    "active": true,
-    "message": "⚡ 10 dakika sonra v1.6.0 güncellemesi yayınlanacaktır!",
-    "type": "warning",
-    "timestamp": "2026-08-31T16:12:17.108Z",
-    "formattedTime": "19:12:17"
+    "active": false,
+    "message": "",
+    "type": "info",
+    "timestamp": null
   },
   "blockedServers": []
 }
