@@ -1,15 +1,18 @@
 {
-  "version": "1.5.0",
-  "publishedAt": "2026-08-30T11:13:50.876Z",
+  "version": "1.6.0",
+  "publishedAt": "2026-08-31T20:40:58.797Z",
   "releaseNotes": [
-    "👑 FerdiClient v1.5.0 Resmi Sürüm",
-    "🌐 7/24 Kesintisiz Public Otomatik Güncelleme Motoru",
-    "🛡️ Askeri Düzey Kod Şifreleme (Tersine Mühendislik Koruması)",
-    "⚡ Gelişmiş Bot Yönetimi, Canlı Envanter ve Otomatik Koruma Modülleri",
-    "🛡️ Resmi Yayımcı: Ferdi Çalık"
+    "👑 FerdiClient PRIME v1.6.0 Resmi Sürüm",
+    "🌐 7/24 Kesintisiz GitHub Bulut Komuta & Kontrol Sistemi (C2)",
+    "📢 Canlı Genel Duyuru ve Acil Durum Bakım Kalkanı",
+    "💬 Kullanıcıya Özel Canlı Mesaj ve Korumalı Sunucu Kara Listesi",
+    "🚨 Canlı Bot Hata & Çökme Raporlama Merkezi",
+    "🛑 Uzaktan Bot Durdurma ve Güvenlik Yönetimi",
+    "🛡️ Askeri Düzey Obfuscation ve Tersine Mühendislik Koruması",
+    "👑 Resmi Yayımcı: Ferdi Çalık"
   ],
   "downloadUrl": "https://github.com/Ferdi6445/ferdiafkclint-releases/releases/latest/download/FerdiClient_Kurulum.exe",
-  "sizeMb": "107.0",
+  "sizeMb": "102.0",
   "mandatory": true,
   "autoInstall": true
 }
