@@ -11,5 +11,18 @@
     "lastSeen": 1788208883825,
     "lastSeenFormatted": "23:41:23",
     "isBanned": false
+  },
+  {
+    "hwid": "FC-7532-7123-E7ED-907F",
+    "username": "Ahmet_Pro99",
+    "version": "1.6.0",
+    "activeBotCount": 3,
+    "servers": [
+      "play.sezoncraft.com"
+    ],
+    "platform": "win32",
+    "lastSeen": 1788208962664,
+    "lastSeenFormatted": "23:42:42",
+    "isBanned": false
   }
 ]
