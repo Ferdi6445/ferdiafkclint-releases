@@ -12,6 +12,15 @@
     "formattedTime": "23:42:53"
   },
   "blockedServers": [],
-  "whispers": {},
+  "whispers": {
+    "FC-7532-7123-E7ED-907F": {
+      "id": "w-1788208975860",
+      "targetHwid": "FC-7532-7123-E7ED-907F",
+      "message": "⚡ Ahmet Bey, botlarınızı tek IP den fazla açmayınız.",
+      "sender": "Yönetici (Ferdi Çalık)",
+      "timestamp": "2026-08-31T20:42:55.860Z",
+      "timeFormatted": "23:42:55"
+    }
+  },
   "killCommands": []
 }
