@@ -2,17 +2,24 @@
   "maintenance": {
     "enabled": true,
     "reason": "Test Bakım",
-    "startedAt": "2026-09-01T14:54:32.385Z"
+    "startedAt": "2026-09-01T14:55:12.676Z",
+    "lastUpdated": 1788274512676
   },
   "announcement": {
-    "active": true,
-    "message": "Test Duyuru 123",
+    "active": false,
+    "message": "",
     "type": "info",
-    "timestamp": "2026-09-01T14:55:09.743Z",
-    "formattedTime": "17:55:09",
-    "lastUpdated": 1788274509743
+    "timestamp": null,
+    "lastUpdated": 1788274511493
   },
-  "blockedServers": [],
+  "blockedServers": [
+    {
+      "host": "prohibited-server.net",
+      "reason": "Yasaklı Sunucu",
+      "addedAt": "2026-09-01T14:52:41.971Z",
+      "updatedAt": "2026-09-01T14:54:38.453Z"
+    }
+  ],
   "whispers": {},
   "killCommands": []
 }
