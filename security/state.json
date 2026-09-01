@@ -13,6 +13,15 @@
     "lastUpdated": 1788295301440
   },
   "blockedServers": [],
-  "whispers": {},
+  "whispers": {
+    "FC-TEST-1234": {
+      "id": "w-1788295305041",
+      "targetHwid": "FC-TEST-1234",
+      "message": "Merhaba Oyuncu!",
+      "sender": "Yönetici (Ferdi Çalık)",
+      "timestamp": "2026-09-01T20:41:45.042Z",
+      "timeFormatted": "23:41:45"
+    }
+  },
   "killCommands": []
 }
