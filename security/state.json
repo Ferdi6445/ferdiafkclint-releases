@@ -3,15 +3,14 @@
     "enabled": false,
     "reason": "Sistem altyapı bakımı yapılmaktadır.",
     "startedAt": null,
-    "lastUpdated": 1788274513790
+    "lastUpdated": 1788274644148
   },
   "announcement": {
-    "active": true,
-    "message": "Test Duyuru 123",
+    "active": false,
+    "message": "",
     "type": "info",
-    "timestamp": "2026-09-01T14:57:21.070Z",
-    "formattedTime": "17:57:21",
-    "lastUpdated": 1788274641070
+    "timestamp": null,
+    "lastUpdated": 1788274642901
   },
   "blockedServers": [],
   "whispers": {},
