@@ -1,9 +1,9 @@
 {
   "maintenance": {
-    "enabled": false,
-    "reason": "Sistem altyapı bakımı yapılmaktadır.",
-    "startedAt": null,
-    "lastUpdated": 1788295303943
+    "enabled": true,
+    "reason": "Test Bakım",
+    "startedAt": "2026-09-01T20:50:12.179Z",
+    "lastUpdated": 1788295812179
   },
   "announcement": {
     "active": false,
@@ -12,7 +12,13 @@
     "timestamp": null,
     "lastUpdated": 1788295811071
   },
-  "blockedServers": [],
+  "blockedServers": [
+    {
+      "host": "prohibited-server.net",
+      "reason": "Yasaklı Sunucu",
+      "addedAt": "2026-09-01T20:41:48.886Z"
+    }
+  ],
   "whispers": {},
   "killCommands": []
 }
