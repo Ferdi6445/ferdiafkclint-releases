@@ -12,14 +12,7 @@
     "timestamp": null,
     "lastUpdated": 1788275503252
   },
-  "blockedServers": [
-    {
-      "host": "prohibited-server.net",
-      "reason": "Yasaklı Sunucu",
-      "addedAt": "2026-09-01T15:08:07.038Z",
-      "updatedAt": "2026-09-01T15:11:49.368Z"
-    }
-  ],
+  "blockedServers": [],
   "whispers": {
     "FC-TEST-1234": {
       "id": "w-1788275504780",
