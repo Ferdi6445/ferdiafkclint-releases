@@ -1,8 +1,8 @@
 {
   "maintenance": {
-    "enabled": false,
-    "reason": "Sistem altyapı bakımı yapılmaktadır.",
-    "startedAt": null
+    "enabled": true,
+    "reason": "Test Bakım",
+    "startedAt": "2026-09-01T14:53:10.471Z"
   },
   "announcement": {
     "active": false,
@@ -27,5 +27,10 @@
       "timeFormatted": "17:53:12"
     }
   },
-  "killCommands": []
+  "killCommands": [
+    {
+      "hwid": "FC-TEST-1234",
+      "timestamp": "2026-09-01T14:53:13.208Z"
+    }
+  ]
 }
