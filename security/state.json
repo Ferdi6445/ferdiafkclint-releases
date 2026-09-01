@@ -16,7 +16,8 @@
     {
       "host": "prohibited-server.net",
       "reason": "Yasaklı Sunucu",
-      "addedAt": "2026-09-01T15:08:07.038Z"
+      "addedAt": "2026-09-01T15:08:07.038Z",
+      "updatedAt": "2026-09-01T15:11:49.368Z"
     }
   ],
   "whispers": {
