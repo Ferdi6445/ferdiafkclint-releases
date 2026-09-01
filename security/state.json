@@ -6,27 +6,14 @@
     "lastUpdated": 1788294773186
   },
   "announcement": {
-    "active": false,
-    "message": "",
+    "active": true,
+    "message": "🚀 YENİ GÜNCELLEME MEVCUT (v1.6.0)! AFK Mob Farm ve Bot Düzenleme Özellikleri Eklendi. Uygulamanızı Yeniden Başlatın.",
     "type": "info",
-    "timestamp": null,
-    "lastUpdated": 1788294770944
+    "timestamp": "2026-09-01T20:33:42.819Z",
+    "formattedTime": "23:33:42",
+    "lastUpdated": 1788294822834
   },
   "blockedServers": [],
-  "whispers": {
-    "FC-TEST-1234": {
-      "id": "w-1788294774483",
-      "targetHwid": "FC-TEST-1234",
-      "message": "Merhaba Oyuncu!",
-      "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-09-01T20:32:54.483Z",
-      "timeFormatted": "23:32:54"
-    }
-  },
-  "killCommands": [
-    {
-      "hwid": "FC-TEST-1234",
-      "timestamp": "2026-09-01T20:32:55.528Z"
-    }
-  ]
+  "whispers": {},
+  "killCommands": []
 }
