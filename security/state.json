@@ -12,13 +12,13 @@
   },
   "blockedServers": [],
   "whispers": {
-    "FC-DEFAULT": {
-      "id": "w-1788209107781",
-      "targetHwid": "FC-DEFAULT",
-      "message": "test",
+    "FC-ACC2-3867-3FC9-AC3E": {
+      "id": "w-1788265106727",
+      "targetHwid": "FC-ACC2-3867-3FC9-AC3E",
+      "message": "sa",
       "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-08-31T20:45:07.781Z",
-      "timeFormatted": "23:45:07"
+      "timestamp": "2026-09-01T12:18:26.727Z",
+      "timeFormatted": "15:18:26"
     }
   },
   "killCommands": []
