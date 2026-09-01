@@ -2,14 +2,13 @@
   "maintenance": {
     "enabled": true,
     "reason": "Test Bakım",
-    "startedAt": "2026-09-01T14:48:19.490Z"
+    "startedAt": "2026-09-01T14:52:35.640Z"
   },
   "announcement": {
-    "active": true,
-    "message": "Test Duyuru 123",
+    "active": false,
+    "message": "",
     "type": "info",
-    "timestamp": "2026-09-01T14:52:33.567Z",
-    "formattedTime": "17:52:33"
+    "timestamp": null
   },
   "blockedServers": [],
   "whispers": {},
