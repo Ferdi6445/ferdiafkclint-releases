@@ -5,33 +5,13 @@
     "startedAt": "2026-09-01T14:53:10.471Z"
   },
   "announcement": {
-    "active": false,
-    "message": "",
+    "active": true,
+    "message": "Test Duyuru 123",
     "type": "info",
-    "timestamp": null
+    "timestamp": "2026-09-01T14:54:29.683Z",
+    "formattedTime": "17:54:29"
   },
-  "blockedServers": [
-    {
-      "host": "prohibited-server.net",
-      "reason": "Yasaklı Sunucu",
-      "addedAt": "2026-09-01T14:52:41.971Z",
-      "updatedAt": "2026-09-01T14:53:17.005Z"
-    }
-  ],
-  "whispers": {
-    "FC-TEST-1234": {
-      "id": "w-1788274392134",
-      "targetHwid": "FC-TEST-1234",
-      "message": "Merhaba Oyuncu!",
-      "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-09-01T14:53:12.134Z",
-      "timeFormatted": "17:53:12"
-    }
-  },
-  "killCommands": [
-    {
-      "hwid": "FC-TEST-1234",
-      "timestamp": "2026-09-01T14:53:13.208Z"
-    }
-  ]
+  "blockedServers": [],
+  "whispers": {},
+  "killCommands": []
 }
