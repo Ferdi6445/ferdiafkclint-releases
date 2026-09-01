@@ -15,7 +15,7 @@
       "host": "prohibited-server.net",
       "reason": "Yasaklı Sunucu",
       "addedAt": "2026-09-01T14:52:41.971Z",
-      "updatedAt": "2026-09-01T14:53:17.005Z"
+      "updatedAt": "2026-09-01T14:54:38.453Z"
     }
   ],
   "whispers": {
@@ -28,5 +28,10 @@
       "timeFormatted": "17:54:34"
     }
   },
-  "killCommands": []
+  "killCommands": [
+    {
+      "hwid": "FC-TEST-1234",
+      "timestamp": "2026-09-01T14:54:36.061Z"
+    }
+  ]
 }
