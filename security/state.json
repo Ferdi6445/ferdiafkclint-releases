@@ -5,21 +5,13 @@
     "startedAt": "2026-08-31T20:42:49.577Z"
   },
   "announcement": {
-    "active": false,
-    "message": "",
+    "active": true,
+    "message": "Test Duyuru 123",
     "type": "info",
-    "timestamp": null
+    "timestamp": "2026-09-01T14:37:53.138Z",
+    "formattedTime": "17:37:53"
   },
   "blockedServers": [],
-  "whispers": {
-    "FC-ACC2-3867-3FC9-AC3E": {
-      "id": "w-1788265106727",
-      "targetHwid": "FC-ACC2-3867-3FC9-AC3E",
-      "message": "sa",
-      "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-09-01T12:18:26.727Z",
-      "timeFormatted": "15:18:26"
-    }
-  },
+  "whispers": {},
   "killCommands": []
 }
