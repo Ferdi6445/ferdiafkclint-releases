@@ -16,18 +16,13 @@
   "blockedServers": [],
   "whispers": {
     "FC-ACC2-3867-3FC9-AC3E": {
-      "id": "w-1788275991335",
+      "id": "w-1788292855188",
       "targetHwid": "FC-ACC2-3867-3FC9-AC3E",
-      "message": "sa",
+      "message": "merhaba",
       "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-09-01T15:19:51.335Z",
-      "timeFormatted": "18:19:51"
+      "timestamp": "2026-09-01T20:00:55.188Z",
+      "timeFormatted": "23:00:55"
     }
   },
-  "killCommands": [
-    {
-      "hwid": "FC-ACC2-3867-3FC9-AC3E",
-      "timestamp": "2026-09-01T15:20:25.068Z"
-    }
-  ]
+  "killCommands": []
 }
