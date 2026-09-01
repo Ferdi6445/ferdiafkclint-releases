@@ -6,12 +6,11 @@
     "lastUpdated": 1788295303943
   },
   "announcement": {
-    "active": true,
-    "message": "Test Duyuru 123",
+    "active": false,
+    "message": "",
     "type": "info",
-    "timestamp": "2026-09-01T20:50:09.777Z",
-    "formattedTime": "23:50:09",
-    "lastUpdated": 1788295809777
+    "timestamp": null,
+    "lastUpdated": 1788295811071
   },
   "blockedServers": [],
   "whispers": {},
