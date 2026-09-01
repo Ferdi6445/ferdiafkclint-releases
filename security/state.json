@@ -1,15 +1,14 @@
 {
   "maintenance": {
-    "enabled": false,
-    "reason": "Sistem altyapı bakımı yapılmaktadır.",
-    "startedAt": null
+    "enabled": true,
+    "reason": "Test Bakım",
+    "startedAt": "2026-09-01T14:48:19.490Z"
   },
   "announcement": {
-    "active": true,
-    "message": "Test Duyuru 123",
+    "active": false,
+    "message": "",
     "type": "info",
-    "timestamp": "2026-09-01T14:48:16.891Z",
-    "formattedTime": "17:48:16"
+    "timestamp": null
   },
   "blockedServers": [],
   "whispers": {},
