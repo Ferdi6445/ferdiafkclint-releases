@@ -12,27 +12,7 @@
     "timestamp": null,
     "lastUpdated": 1788293199506
   },
-  "blockedServers": [
-    {
-      "host": "prohibited-server.net",
-      "reason": "Yasaklı Sunucu",
-      "addedAt": "2026-09-01T20:06:46.755Z"
-    }
-  ],
-  "whispers": {
-    "FC-TEST-1234": {
-      "id": "w-1788293202328",
-      "targetHwid": "FC-TEST-1234",
-      "message": "Merhaba Oyuncu!",
-      "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-09-01T20:06:42.328Z",
-      "timeFormatted": "23:06:42"
-    }
-  },
-  "killCommands": [
-    {
-      "hwid": "FC-TEST-1234",
-      "timestamp": "2026-09-01T20:06:43.375Z"
-    }
-  ]
+  "blockedServers": [],
+  "whispers": {},
+  "killCommands": []
 }
