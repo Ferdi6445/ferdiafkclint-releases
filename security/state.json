@@ -24,5 +24,10 @@
       "timeFormatted": "18:19:51"
     }
   },
-  "killCommands": []
+  "killCommands": [
+    {
+      "hwid": "FC-ACC2-3867-3FC9-AC3E",
+      "timestamp": "2026-09-01T15:20:25.068Z"
+    }
+  ]
 }
