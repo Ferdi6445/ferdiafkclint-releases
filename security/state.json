@@ -20,6 +20,15 @@
       "updatedAt": "2026-09-01T21:00:45.483Z"
     }
   ],
-  "whispers": {},
+  "whispers": {
+    "FC-TEST-1234": {
+      "id": "w-1788297922290",
+      "targetHwid": "FC-TEST-1234",
+      "message": "Merhaba Oyuncu!",
+      "sender": "Yönetici (Ferdi Çalık)",
+      "timestamp": "2026-09-01T21:25:22.290Z",
+      "timeFormatted": "00:25:22"
+    }
+  },
   "killCommands": []
 }
