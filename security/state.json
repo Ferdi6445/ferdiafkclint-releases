@@ -1,8 +1,8 @@
 {
   "maintenance": {
-    "enabled": false,
-    "reason": "Sistem altyapı bakımı yapılmaktadır.",
-    "startedAt": null
+    "enabled": true,
+    "reason": "Test Bakım",
+    "startedAt": "2026-09-01T14:52:35.640Z"
   },
   "announcement": {
     "active": false,
@@ -10,7 +10,13 @@
     "type": "info",
     "timestamp": null
   },
-  "blockedServers": [],
+  "blockedServers": [
+    {
+      "host": "prohibited-server.net",
+      "reason": "Yasaklı Sunucu",
+      "addedAt": "2026-09-01T14:52:41.971Z"
+    }
+  ],
   "whispers": {
     "FC-TEST-1234": {
       "id": "w-1788274357232",
