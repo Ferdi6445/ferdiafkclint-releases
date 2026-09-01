@@ -14,19 +14,14 @@
   },
   "blockedServers": [],
   "whispers": {
-    "FC-TEST-1234": {
-      "id": "w-1788275504780",
-      "targetHwid": "FC-TEST-1234",
-      "message": "Merhaba Oyuncu!",
+    "FC-ACC2-3867-3FC9-AC3E": {
+      "id": "w-1788275991335",
+      "targetHwid": "FC-ACC2-3867-3FC9-AC3E",
+      "message": "sa",
       "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-09-01T15:11:44.780Z",
-      "timeFormatted": "18:11:44"
+      "timestamp": "2026-09-01T15:19:51.335Z",
+      "timeFormatted": "18:19:51"
     }
   },
-  "killCommands": [
-    {
-      "hwid": "FC-TEST-1234",
-      "timestamp": "2026-09-01T15:11:45.834Z"
-    }
-  ]
+  "killCommands": []
 }
