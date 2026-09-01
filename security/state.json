@@ -3,15 +3,14 @@
     "enabled": false,
     "reason": "Sistem altyapı bakımı yapılmaktadır.",
     "startedAt": null,
-    "lastUpdated": 1788275281199
+    "lastUpdated": 1788275504263
   },
   "announcement": {
-    "active": true,
-    "message": "Test Duyuru 123",
+    "active": false,
+    "message": "",
     "type": "info",
-    "timestamp": "2026-09-01T15:11:41.495Z",
-    "formattedTime": "18:11:41",
-    "lastUpdated": 1788275501495
+    "timestamp": null,
+    "lastUpdated": 1788275503252
   },
   "blockedServers": [
     {
@@ -20,6 +19,15 @@
       "addedAt": "2026-09-01T15:08:07.038Z"
     }
   ],
-  "whispers": {},
+  "whispers": {
+    "FC-TEST-1234": {
+      "id": "w-1788275504780",
+      "targetHwid": "FC-TEST-1234",
+      "message": "Merhaba Oyuncu!",
+      "sender": "Yönetici (Ferdi Çalık)",
+      "timestamp": "2026-09-01T15:11:44.780Z",
+      "timeFormatted": "18:11:44"
+    }
+  },
   "killCommands": []
 }
