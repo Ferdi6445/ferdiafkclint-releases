@@ -6,27 +6,14 @@
     "lastUpdated": 1788274738265
   },
   "announcement": {
-    "active": false,
-    "message": "",
+    "active": true,
+    "message": "Test Duyuru 123",
     "type": "info",
-    "timestamp": null,
-    "lastUpdated": 1788274735854
+    "timestamp": "2026-09-01T15:07:57.943Z",
+    "formattedTime": "18:07:57",
+    "lastUpdated": 1788275277943
   },
   "blockedServers": [],
-  "whispers": {
-    "FC-TEST-1234": {
-      "id": "w-1788274739424",
-      "targetHwid": "FC-TEST-1234",
-      "message": "Merhaba Oyuncu!",
-      "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-09-01T14:58:59.424Z",
-      "timeFormatted": "17:58:59"
-    }
-  },
-  "killCommands": [
-    {
-      "hwid": "FC-TEST-1234",
-      "timestamp": "2026-09-01T14:59:00.603Z"
-    }
-  ]
+  "whispers": {},
+  "killCommands": []
 }
