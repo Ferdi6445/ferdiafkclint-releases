@@ -7,11 +7,11 @@
   },
   "announcement": {
     "active": true,
-    "message": "🚀 YENİ GÜNCELLEME MEVCUT (v1.6.0)! AFK Mob Farm ve Bot Düzenleme Özellikleri Eklendi. Uygulamanızı Yeniden Başlatın.",
+    "message": "Test Duyuru 123",
     "type": "info",
-    "timestamp": "2026-09-01T21:21:57.763Z",
-    "formattedTime": "00:21:57",
-    "lastUpdated": 1788297717777
+    "timestamp": "2026-09-01T21:25:17.166Z",
+    "formattedTime": "00:25:17",
+    "lastUpdated": 1788297917166
   },
   "blockedServers": [
     {
