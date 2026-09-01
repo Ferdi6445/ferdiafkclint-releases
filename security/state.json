@@ -12,7 +12,13 @@
     "timestamp": null,
     "lastUpdated": 1788295301440
   },
-  "blockedServers": [],
+  "blockedServers": [
+    {
+      "host": "prohibited-server.net",
+      "reason": "Yasaklı Sunucu",
+      "addedAt": "2026-09-01T20:41:48.886Z"
+    }
+  ],
   "whispers": {
     "FC-TEST-1234": {
       "id": "w-1788295305041",
@@ -23,5 +29,10 @@
       "timeFormatted": "23:41:45"
     }
   },
-  "killCommands": []
+  "killCommands": [
+    {
+      "hwid": "FC-TEST-1234",
+      "timestamp": "2026-09-01T20:41:46.123Z"
+    }
+  ]
 }
