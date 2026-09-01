@@ -1,9 +1,13 @@
 {
   "version": "1.6.0",
-  "publishedAt": "2026-08-31T20:40:58.797Z",
+  "publishedAt": "2026-09-01T12:26:00.189Z",
   "releaseNotes": [
     "👑 FerdiClient PRIME v1.6.0 Resmi Sürüm",
+    "⚡ İsteğe Bağlı Otomatik Script ve Şifresiz Giriş Desteği (Boş Bırakılabilir)",
+    "🎮 Özel Konsol Hızlı Komut Yöneticisi (+ / ×)",
+    "📜 Sürüm Güncelleme Geçmişi (Tüm sürümler kalıcı)",
     "🌐 7/24 Kesintisiz GitHub Bulut Komuta & Kontrol Sistemi (C2)",
+    "👥 Çoklu Cihaz ve Uzak Makine Canlı Telemetri Keşfi",
     "📢 Canlı Genel Duyuru ve Acil Durum Bakım Kalkanı",
     "💬 Kullanıcıya Özel Canlı Mesaj ve Korumalı Sunucu Kara Listesi",
     "🚨 Canlı Bot Hata & Çökme Raporlama Merkezi",
@@ -11,8 +15,29 @@
     "🛡️ Askeri Düzey Obfuscation ve Tersine Mühendislik Koruması",
     "👑 Resmi Yayımcı: Ferdi Çalık"
   ],
+  "history": [
+    {
+      "version": "1.6.0",
+      "title": "v1.6.0 Resmi Sürüm (Özelleştirme & Çoklu Cihaz Güvenlik Güncellemesi)",
+      "date": "01.09.2026",
+      "notes": [
+        "👑 FerdiClient PRIME v1.6.0 Resmi Sürüm",
+        "⚡ İsteğe Bağlı Otomatik Script ve Şifresiz Giriş Desteği (Boş bırakılabilir)",
+        "🎮 Konsol Hızlı Komut Yöneticisi: Oyuncu kendi komutlarını ekleyip (+), silebilir (×)",
+        "📜 Güncelleme Geçmişi Zaman Çizelgesi: v1.6.0'dan itibaren tüm sürümler kalıcı olarak listelenir",
+        "🌐 7/24 Kesintisiz GitHub Bulut Komuta & Kontrol Sistemi (C2)",
+        "👥 Çoklu Cihaz ve Uzak Makine Canlı Telemetri Keşfi (Canlı bağlı cihazlar)",
+        "📢 Canlı Genel Duyuru ve Acil Durum Bakım Kalkanı",
+        "💬 Kullanıcıya Özel Canlı Mesaj ve Korumalı Sunucu Kara Listesi",
+        "🚨 Canlı Bot Hata & Çökme Raporlama Merkezi",
+        "🛑 Uzaktan Bot Durdurma ve Güvenlik Yönetimi",
+        "🛡️ Askeri Düzey Obfuscation ve Tersine Mühendislik Koruması",
+        "👑 Resmi Yayımcı: Ferdi Çalık"
+      ]
+    }
+  ],
   "downloadUrl": "https://github.com/Ferdi6445/ferdiafkclint-releases/releases/latest/download/FerdiClient_Kurulum.exe",
   "sizeMb": "102.0",
-  "mandatory": true,
-  "autoInstall": true
+  "mandatory": false,
+  "autoInstall": false
 }
