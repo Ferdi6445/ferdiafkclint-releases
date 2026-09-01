@@ -1,8 +1,8 @@
 {
   "maintenance": {
-    "enabled": false,
-    "reason": "Sistem altyapı bakımı yapılmaktadır.",
-    "startedAt": null
+    "enabled": true,
+    "reason": "Test Bakım",
+    "startedAt": "2026-09-01T14:54:32.385Z"
   },
   "announcement": {
     "active": false,
@@ -18,6 +18,15 @@
       "updatedAt": "2026-09-01T14:53:17.005Z"
     }
   ],
-  "whispers": {},
+  "whispers": {
+    "FC-TEST-1234": {
+      "id": "w-1788274474879",
+      "targetHwid": "FC-TEST-1234",
+      "message": "Merhaba Oyuncu!",
+      "sender": "Yönetici (Ferdi Çalık)",
+      "timestamp": "2026-09-01T14:54:34.879Z",
+      "timeFormatted": "17:54:34"
+    }
+  },
   "killCommands": []
 }
