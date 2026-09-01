@@ -6,22 +6,14 @@
     "lastUpdated": 1788294230985
   },
   "announcement": {
-    "active": false,
-    "message": "",
+    "active": true,
+    "message": "Test Duyuru 123",
     "type": "info",
-    "timestamp": null,
-    "lastUpdated": 1788294228589
+    "timestamp": "2026-09-01T20:32:49.537Z",
+    "formattedTime": "23:32:49",
+    "lastUpdated": 1788294769537
   },
   "blockedServers": [],
-  "whispers": {
-    "FC-ACC2-3867-3FC9-AC3E": {
-      "id": "w-1788294364693",
-      "targetHwid": "FC-ACC2-3867-3FC9-AC3E",
-      "message": "test",
-      "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-09-01T20:26:04.693Z",
-      "timeFormatted": "23:26:04"
-    }
-  },
+  "whispers": {},
   "killCommands": []
 }
