@@ -1,21 +1,28 @@
 {
-  "version": "1.1.0",
-  "latestVersion": "1.1.0",
-  "releaseNotes": [
-    "hata düzeltimi"
-  ],
-  "downloadUrl": "https://github.com/Ferdi6445/ferdiafkclint-releases/releases/download/v1.1.0/FerdiClient_Kurulum.exe",
-  "mandatory": true,
-  "publishedAt": "2026-09-01T14:34:51.397Z",
+  "version": "1.6.0",
+  "latestVersion": "1.6.0",
+  "publishedAt": "2026-09-01T20:36:51.033Z",
   "publisher": "Ferdi Çalık",
+  "releaseNotes": [
+    "👑 FerdiClient PRIME v1.6.0 Resmi Sürüm",
+    "⚔️ Oyuncular İçin Otomatik Mob Saldırısı (AFK Farm) Eklendi",
+    "⚡ Bot Ekleme/Düzenleme Ekranında Donma Engeli & Düzenle Butonu Eklendi",
+    "📜 Sürüm Güncelleme Geçmişi ve Otomatik İndirme Desteği"
+  ],
   "history": [
     {
-      "version": "1.1.0",
-      "title": "v1.1.0 Resmi Sürüm",
+      "version": "1.6.0",
+      "title": "v1.6.0 Resmi Sürüm",
       "date": "01.09.2026",
       "notes": [
-        "hata düzeltimi"
+        "👑 FerdiClient PRIME v1.6.0 Resmi Sürüm",
+        "⚔️ Oyuncular İçin Otomatik Mob Saldırısı (AFK Farm) Eklendi",
+        "⚡ Bot Ekleme/Düzenleme Ekranında Donma Engeli & Düzenle Butonu Eklendi"
       ]
     }
-  ]
+  ],
+  "downloadUrl": "https://github.com/Ferdi6445/ferdiafkclint-releases/releases/latest/download/FerdiClient_Kurulum.exe",
+  "sizeMb": "102.0",
+  "mandatory": true,
+  "autoInstall": true
 }
