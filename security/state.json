@@ -23,5 +23,10 @@
       "timeFormatted": "23:23:52"
     }
   },
-  "killCommands": []
+  "killCommands": [
+    {
+      "hwid": "FC-TEST-1234",
+      "timestamp": "2026-09-01T20:23:53.305Z"
+    }
+  ]
 }
