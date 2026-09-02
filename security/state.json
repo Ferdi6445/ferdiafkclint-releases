@@ -8,24 +8,10 @@
     "active": true,
     "message": "Test Duyuru 123",
     "type": "info",
-    "timestamp": "2026-09-02T09:50:44.961Z",
-    "formattedTime": "12:50:44"
+    "timestamp": "2026-09-02T10:10:20.347Z",
+    "formattedTime": "13:10:20"
   },
   "blockedServers": [],
-  "whispers": {
-    "FC-TEST-1234": {
-      "id": "w-1788342649762",
-      "targetHwid": "FC-TEST-1234",
-      "message": "Merhaba Oyuncu!",
-      "sender": "Yönetici (Ferdi Çalık)",
-      "timestamp": "2026-09-02T09:50:49.762Z",
-      "timeFormatted": "12:50:49"
-    }
-  },
-  "killCommands": [
-    {
-      "hwid": "FC-TEST-1234",
-      "timestamp": "2026-09-02T09:50:50.807Z"
-    }
-  ]
+  "whispers": {},
+  "killCommands": []
 }
