@@ -1,13 +1,11 @@
 {
   "version": "1.6.3",
-  "publishedAt": "2026-09-03T09:58:24.794Z",
+  "publishedAt": "2026-09-03T10:04:13.226Z",
   "releaseNotes": [
-    "Tüm açıklar ve sistem hataları fixlenmiştir.",
-    "Yeni özgün FerdiClient teması ve Bento kokpit tasarımı aktif edildi.",
-    "Performans iyileştirmeleri ve kilit temizleyici güncelleme motoru eklendi."
+    "testtttt"
   ],
   "downloadUrl": "https://github.com/Ferdi6445/ferdiafkclint-releases/releases/latest/download/FerdiClient_Kurulum.exe",
-  "sizeMb": "102.0",
+  "sizeMb": "107.0",
   "mandatory": true,
   "autoInstall": true
 }
