@@ -10,7 +10,13 @@
     "type": "info",
     "timestamp": null
   },
-  "blockedServers": [],
+  "blockedServers": [
+    {
+      "host": "prohibited-server.net",
+      "reason": "Yasaklı Sunucu",
+      "addedAt": "2026-09-03T08:43:53.603Z"
+    }
+  ],
   "whispers": {
     "FC-TEST-1234": {
       "id": "w-1788425028980",
