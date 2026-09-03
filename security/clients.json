@@ -11,5 +11,18 @@
     "lastSeen": 1788427445489,
     "lastSeenFormatted": "12:24:05",
     "isBanned": false
+  },
+  {
+    "hwid": "FC-ACC2-3867-3FC9-AC3E",
+    "username": "Oyuncu",
+    "version": "1.6.0",
+    "activeBotCount": 0,
+    "servers": [
+      "play.sezoncraft.com"
+    ],
+    "platform": "win32",
+    "lastSeen": 1788427468754,
+    "lastSeenFormatted": "12:24:28",
+    "isBanned": false
   }
 ]
