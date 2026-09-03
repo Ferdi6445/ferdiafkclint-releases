@@ -12,7 +12,13 @@
     "timestamp": "2026-09-03T09:22:23.575Z",
     "formattedTime": "12:22:23"
   },
-  "blockedServers": [],
+  "blockedServers": [
+    {
+      "host": "prohibited-server.net",
+      "reason": "Yasaklı Sunucu",
+      "addedAt": "2026-09-03T09:22:33.592Z"
+    }
+  ],
   "whispers": {
     "FC-TEST-1234": {
       "id": "w-1788427348571",
