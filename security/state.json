@@ -6,11 +6,10 @@
     "updatedAt": "2026-09-03T09:16:31.829Z"
   },
   "announcement": {
-    "active": true,
-    "message": "Test Duyuru 123",
+    "active": false,
+    "message": "",
     "type": "info",
-    "timestamp": "2026-09-03T09:22:23.575Z",
-    "formattedTime": "12:22:23"
+    "timestamp": null
   },
   "blockedServers": [],
   "whispers": {},
