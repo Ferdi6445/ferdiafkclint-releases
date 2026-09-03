@@ -1,10 +1,9 @@
 {
-  "version": "1.6.1",
-  "publishedAt": "2026-09-02T10:10:08.454Z",
+  "version": "1.6.2",
+  "publishedAt": "2026-09-03T09:26:48.827Z",
   "releaseNotes": [
-    "👑 FerdiClient PRIME v1.6.1 Resmi Sürüm",
-    "⚡ Oyuncu konsolundaki hızlı komutlar kaldırıldı, sade arayüze geçildi.",
-    "⚔️ Mob Farm ve Anti-AFK motoru optimize edildi."
+    "Tüm açıklar ve sistem hataları fixlenmiştir.",
+    "Performans iyileştirmeleri ve stabilite optimizasyonları yapılmıştır."
   ],
   "downloadUrl": "https://github.com/Ferdi6445/ferdiafkclint-releases/releases/latest/download/FerdiClient_Kurulum.exe",
   "sizeMb": "107.0",
