@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "hwid": "FC-TEST-BAN-123",
+    "reason": "Test Ban",
+    "bannedAt": "2026-09-03T08:59:27.054Z",
+    "active": true
+  }
+]
