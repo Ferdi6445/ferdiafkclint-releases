@@ -1,9 +1,8 @@
 {
   "version": "1.6.2",
-  "publishedAt": "2026-09-03T09:26:48.827Z",
+  "publishedAt": "2026-09-03T09:35:46.165Z",
   "releaseNotes": [
-    "Tüm açıklar ve sistem hataları fixlenmiştir.",
-    "Performans iyileştirmeleri ve stabilite optimizasyonları yapılmıştır."
+    "1.6.2 güncellemesi yayınlandı"
   ],
   "downloadUrl": "https://github.com/Ferdi6445/ferdiafkclint-releases/releases/latest/download/FerdiClient_Kurulum.exe",
   "sizeMb": "107.0",
