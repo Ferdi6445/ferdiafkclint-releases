@@ -1,9 +1,9 @@
 {
   "maintenance": {
-    "enabled": true,
-    "reason": "Test Bakım",
-    "startedAt": "2026-09-04T08:30:02.659Z",
-    "updatedAt": "2026-09-04T08:30:02.659Z"
+    "enabled": false,
+    "reason": "Sistem altyapı bakımı yapılmaktadır.",
+    "startedAt": null,
+    "updatedAt": "2026-09-04T08:30:03.808Z"
   },
   "announcement": {
     "active": false,
