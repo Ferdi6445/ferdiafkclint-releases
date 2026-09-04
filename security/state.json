@@ -12,6 +12,15 @@
     "timestamp": null
   },
   "blockedServers": [],
-  "whispers": {},
+  "whispers": {
+    "FC-TEST-1234": {
+      "id": "w-1788510605307",
+      "targetHwid": "FC-TEST-1234",
+      "message": "Merhaba Oyuncu!",
+      "sender": "Yönetici (Ferdi Çalık)",
+      "timestamp": "2026-09-04T08:30:05.307Z",
+      "timeFormatted": "11:30:05"
+    }
+  },
   "killCommands": []
 }
