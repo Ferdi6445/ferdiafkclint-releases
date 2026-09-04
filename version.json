@@ -1,11 +1,12 @@
 {
-  "version": "1.6.8",
-  "publishedAt": "2026-09-04T09:00:16.870Z",
+  "version": "1.7.0",
+  "publishedAt": "2026-09-04T09:11:51.581Z",
   "releaseNotes": [
-    "Canlı Envanter ve Sandık Aktarımı (Sandıktan Al, Sandığa Koy, Yere At, Slot Yönetimi) eklendi.",
-    "Hedef koordinata ilerleme (Pathfinder) ve oyuncu takip motoru aktifleştirildi.",
-    "AFK Mob Farmı (otomatik vurma & mob öğütücü) kontrolleri tamamen onarıldı.",
-    "Çok kanallı konsol, sunucu mesajları ve komut yönlendirme düzeltildi."
+    "⚡ RAM & CPU Optimizasyonu: Eco-AFK düşük kaynak modu, V8 bellek sıkıştırma ve anlık RAM temizleme eklendi.",
+    "🎒 Canlı Envanter ve Sandık Aktarımı: 36 slot canlı ızgara, sandıktan al/koy, tekil eşya atma kontrolleri.",
+    "🎯 Hedef koordinata ilerleme (Pathfinder) ve oyuncu takip motoru.",
+    "⚔️ AFK Mob Farmı: Kontrol paneli ve yönlü otomatik vurma/öğütücü desteği.",
+    "💻 Çok kanallı konsol, terminal bellek budama ve tüm arayüz butonları onarıldı."
   ],
   "downloadUrl": "https://github.com/Ferdi6445/ferdiafkclint-releases/releases/latest/download/FerdiClient_Kurulum.exe",
   "sizeMb": "102.0",
