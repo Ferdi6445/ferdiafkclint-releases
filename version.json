@@ -1,9 +1,11 @@
 {
-  "version": "1.6.5",
-  "publishedAt": "2026-09-04T08:31:07.139Z",
+  "version": "1.6.8",
+  "publishedAt": "2026-09-04T09:00:16.870Z",
   "releaseNotes": [
-    "Tüm açıklar ve sistem hataları fixlenmiştir.",
-    "İlk indirmede bot ekleme ve girdi odaklanma sorunu kalıcı olarak çözüldü."
+    "Canlı Envanter ve Sandık Aktarımı (Sandıktan Al, Sandığa Koy, Yere At, Slot Yönetimi) eklendi.",
+    "Hedef koordinata ilerleme (Pathfinder) ve oyuncu takip motoru aktifleştirildi.",
+    "AFK Mob Farmı (otomatik vurma & mob öğütücü) kontrolleri tamamen onarıldı.",
+    "Çok kanallı konsol, sunucu mesajları ve komut yönlendirme düzeltildi."
   ],
   "downloadUrl": "https://github.com/Ferdi6445/ferdiafkclint-releases/releases/latest/download/FerdiClient_Kurulum.exe",
   "sizeMb": "102.0",
