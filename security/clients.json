@@ -1,18 +1,5 @@
 [
   {
-    "hwid": "FC-ACC2-3867-3FC9-AC3E",
-    "username": "Oyuncu",
-    "version": "1.6.0",
-    "activeBotCount": 0,
-    "servers": [
-      "play.sezoncraft.com"
-    ],
-    "platform": "win32",
-    "lastSeen": 1791575429883,
-    "lastSeenFormatted": "22:50:29",
-    "isBanned": false
-  },
-  {
     "hwid": "FC-8921-7310-3155-A5DC",
     "username": "Oyuncu",
     "version": "1.6.0",
@@ -21,8 +8,8 @@
       "play.sezoncraft.com"
     ],
     "platform": "win32",
-    "lastSeen": 1791575535564,
-    "lastSeenFormatted": "22:52:15",
+    "lastSeen": 1791575555569,
+    "lastSeenFormatted": "22:52:35",
     "isBanned": false
   }
 ]
