@@ -3,13 +3,13 @@
     "hwid": "FC-ACC2-3867-3FC9-AC3E",
     "username": "Oyuncu",
     "version": "1.6.0",
-    "activeBotCount": 3,
+    "activeBotCount": 0,
     "servers": [
       "play.sezoncraft.com"
     ],
     "platform": "win32",
-    "lastSeen": 1792573896717,
-    "lastSeenFormatted": "12:11:36",
+    "lastSeen": 1792573926412,
+    "lastSeenFormatted": "12:12:06",
     "isBanned": false
   }
 ]
